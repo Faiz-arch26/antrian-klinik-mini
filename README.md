@@ -73,3 +73,28 @@ Anggota : Muhammad Faiz Ainur Rahman
 Azizatul Abroria
 Dinda Amelia Rosida
 Nunun Nazah Mufardzil Mifroh
+
+
+
+
+# 🏥 Antrian Klinik Mini
+
+Project website untuk memenuhi tugas **Ujian Akhir Semester (UAS)**. Sistem ini dirancang untuk mempermudah manajemen antrian di poliklinik secara digital.
+
+## 📋 Fitur Utama
+- **Admin**: Mengelola data poliklinik, dokter, dan memantau antrian.
+- **User/Pasien**: Mengambil nomor antrian secara online.
+- **Sistem Role**: Keamanan akses menggunakan middleware untuk Admin dan User.
+
+## 🛠️ Prasyarat (Prerequisites)
+Pastikan laptop Anda sudah terinstal:
+- [Laragon](https://laragon.org/) atau XAMPP (PHP >= 8.1)
+- [Composer](https://getcomposer.org/)
+- Browser (Chrome/Edge)
+
+## 🚀 Cara Instalasi
+Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
+
+1. **Clone/Download Project**
+   ```bash
+   git clone [https://github.com/Faiz-arch26/antrian-klinik-mini.git](https://github.com/Faiz-arch26/antrian-klinik-mini.git)
