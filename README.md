@@ -69,10 +69,10 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 Kelompok Genap 
 Kelas : ISA24
-Anggota : Muhammad Faiz Ainur Rahman
-Azizatul Abroria
-Dinda Amelia Rosida
-Nunun Nazah Mufardzil Mifroh
+Anggota : Muhammad Faiz Ainur Rahman,
+Azizatul Abroria,
+Dinda Amelia Rosida,
+Nunun Nazah Mufardzil Mifroh,
 
 
 
