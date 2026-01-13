@@ -65,18 +65,6 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-
-
-Kelompok Genap 
-Kelas : ISA24
-Anggota : Muhammad Faiz Ainur Rahman,
-Azizatul Abroria,
-Dinda Amelia Rosida,
-Nunun Nazah Mufardzil Mifroh,
-
-
-
-
 # 🏥 Antrian Klinik Mini
 
 Project website untuk memenuhi tugas **Ujian Akhir Semester (UAS)**. Sistem ini dirancang untuk mempermudah manajemen antrian di poliklinik secara digital.
@@ -98,3 +86,14 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
 1. **Clone/Download Project**
    ```bash
    git clone [https://github.com/Faiz-arch26/antrian-klinik-mini.git](https://github.com/Faiz-arch26/antrian-klinik-mini.git)
+
+Kelompok Genap 
+Kelas : ISA24
+Anggota : Muhammad Faiz Ainur Rahman 
+Nim : 2402510044
+Dinda Amilia Rosida 
+Nim : 2402510006
+Azizetul Abroriah 
+Nim : 2402510014
+Nunun Nazah Mufardisil Mifroh
+Nim : 2402510018
