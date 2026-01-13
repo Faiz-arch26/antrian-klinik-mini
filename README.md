@@ -87,13 +87,13 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini secara lokal:
    ```bash
    git clone [https://github.com/Faiz-arch26/antrian-klinik-mini.git](https://github.com/Faiz-arch26/antrian-klinik-mini.git)
 
-Kelompok Genap 
-Kelas : ISA24
+Kelompok Genap, 
+Kelas : ISA24,
 Anggota : Muhammad Faiz Ainur Rahman 
-Nim : 2402510044
+Nim : 2402510044,
 Dinda Amilia Rosida 
-Nim : 2402510006
+Nim : 2402510006,
 Azizetul Abroriah 
-Nim : 2402510014
+Nim : 2402510014,
 Nunun Nazah Mufardisil Mifroh
-Nim : 2402510018
+Nim : 2402510018.
